@@ -1,0 +1,25 @@
+{
+  "name": "chat_system",
+  "version": "1.0.0",
+  "description": "Create a small chat system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dungtl2003/Chat-system.git"
+  },
+  "author": "ilikeblue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dungtl2003/Chat-system/issues"
+  },
+  "homepage": "https://github.com/dungtl2003/Chat-system#readme",
+  "dependencies": {
+      "bcrypt": "5.1.1"
+  },
+  "devDependencies": {
+  }
+}
